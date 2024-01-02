@@ -1,3 +1,5 @@
+Jorge Valderrama, PhD
+
 Summary:
 
 Highly motivated and data-driven Research Scientist with a proven ability to conduct comprehensive studies, interpret complex datasets, and draw meaningful insights to inform evidence-based decision-making in the mental health field. Eager to contribute expertise and analytical skills to advance research and improve mental health outcomes.
