@@ -2,19 +2,21 @@ Jorge Valderrama, PhD
 
 Summary:
 
-Highly motivated and data-driven Research Scientist with a proven ability to conduct comprehensive studies, interpret complex datasets, and draw meaningful insights to inform evidence-based decision-making in the mental health field. Eager to contribute expertise and analytical skills to advance research and improve mental health outcomes.
+Highly motivated and data-driven Data Scientist with a proven ability to conduct comprehensive studies, interpret complex datasets, and draw meaningful insights to inform evidence-based decision-making in the public health field. Eager to contribute expertise and analytical skills to advance research and improve health outcomes.
 
 Skills
 
-•	End to end research project management (conception, develop statistical analysis plans, create and implement survey and interview/focus group protocols, data cleaning and analysis, reporting)
+•	Research Project Management: End-to-end management from project conception to completion, including developing statistical analysis plans, creating and implementing survey and interview protocols, conducting data cleaning and analysis, and preparing reports.
 
-•	Advanced Quantitative (including Predictive Modeling and Segmentation) and Qualitative (including In-Depth Interviews and Focus Groups) Research Methods
+•	Research Methods: Advanced quantitative methods (e.g., predictive modeling, segmentation) and qualitative methods (e.g., in-depth interviews, focus groups).
 
-•	Proficient in R and R Studio for Data Manipulation, Analysis, Visualization and Statistical Modeling (e.g., using dplyr, tidyr, ggplot2, kableExtra, tidymodels packages)
+•	Programming & Data Analysis: Proficient in R and Python for data manipulation, statistical modeling, machine learning, visualization, mapping, and dashboard development using R Shiny.
 
-•	Other Data Management & Storage Software: SPSS, SAS, STATA, MAXQDA, Tableau, Qualtrics, Alchemer, PaperSurvey.io, REDCap, QuickBase, Salesforce, Progeny, Microsoft Office, Google Workspace, Canva
+•	Data Management & Storage Tools: Experienced with SPSS, SAS, STATA, MAXQDA, Tableau, Qualtrics, Alchemer, PaperSurvey.io, REDCap, QuickBase, Salesforce, and productivity tools such as Microsoft Office and Google Workspace.
 
-•	Communication: Presenting to Academic and Non-Academic Audiences, Clients, and Stakeholders (non-profit, funders, government institutions), Writing (academic papers, summary reports, proposals/RFPs), Building Relationships with Clients and Stakeholders
+•	Communication & Stakeholder Engagement: Skilled in presenting research findings to academic and non-academic audiences, including clients and stakeholders (e.g., nonprofits, funders, government institutions). Experienced in technical and non-technical writing (e.g., academic papers, reports, proposals) and relationship-building with clients and stakeholders.
+
+
 
 
   
