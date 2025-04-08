@@ -2,7 +2,8 @@ Jorge Valderrama, PhD
 
 Summary:
 
-Highly motivated and data-driven Data Scientist with a proven ability to conduct comprehensive studies, interpret complex datasets, and draw meaningful insights to inform evidence-based decision-making in the public health field. Eager to contribute expertise and analytical skills to advance research and improve health outcomes.
+Data-driven and motivated Data Scientist with a strong track record of conducting comprehensive studies, analyzing complex health data, and generating actionable insights to support evidence-based decision-making. Committed to applying analytical expertise to drive impactful research and improve health outcomes.
+
 
 Skills
 
